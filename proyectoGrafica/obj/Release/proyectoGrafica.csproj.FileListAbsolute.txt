@@ -1,0 +1,11 @@
+D:\materias\grafica\proyecto\proyectoGrafica\proyectoGrafica\bin\Release\proyectoGrafica.exe.config
+D:\materias\grafica\proyecto\proyectoGrafica\proyectoGrafica\bin\Release\proyectoGrafica.exe
+D:\materias\grafica\proyecto\proyectoGrafica\proyectoGrafica\bin\Release\proyectoGrafica.pdb
+D:\materias\grafica\proyecto\proyectoGrafica\proyectoGrafica\bin\Release\OpenTK.dll
+D:\materias\grafica\proyecto\proyectoGrafica\proyectoGrafica\bin\Release\OpenTK.pdb
+D:\materias\grafica\proyecto\proyectoGrafica\proyectoGrafica\bin\Release\OpenTK.xml
+D:\materias\grafica\proyecto\proyectoGrafica\proyectoGrafica\obj\Release\proyectoGrafica.csproj.AssemblyReference.cache
+D:\materias\grafica\proyecto\proyectoGrafica\proyectoGrafica\obj\Release\proyectoGrafica.csproj.CoreCompileInputs.cache
+D:\materias\grafica\proyecto\proyectoGrafica\proyectoGrafica\obj\Release\proyectoGrafica.csproj.CopyComplete
+D:\materias\grafica\proyecto\proyectoGrafica\proyectoGrafica\obj\Release\proyectoGrafica.exe
+D:\materias\grafica\proyecto\proyectoGrafica\proyectoGrafica\obj\Release\proyectoGrafica.pdb
