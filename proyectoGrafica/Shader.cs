@@ -104,6 +104,17 @@ namespace proyectoGrafica
             }
         }
 
+        public void SetProjectionMatrix(Matrix4 matrix)
+        {
+            int location = GL.GetUniformLocation(Handle, "projection");
+            GL.UniformMatrix4(location, false, ref matrix);
+        }
+
+        public void SetViewMatrix(Matrix4 matrix)
+        {
+            int location = GL.GetUniformLocation(Handle, "view");
+            GL.UniformMatrix4(location, false, ref matrix);
+        }
 
         public void Dispose()
         {
